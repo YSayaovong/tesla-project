@@ -13,8 +13,8 @@ This project is a Python-based application that simulates aspects of Tesla techn
 ## Installation
 1. Clone this repository:
 
-## git clone https://github.com/YSayaovong/tesla-project.git
-2. Install dependencies:
+## git clone 
+2. Install dependencies: https://github.com/YSayaovong/tesla-project.git
 
 
 
